@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="500" height="300" src="https://i.imgur.com/QRPyvqM.gif">
+  <img width="500" height="300" src="https://thumbs.gfycat.com/PowerlessScientificGaur-size_restricted.gif">
 </p>
 
 <h1>1. Business Problem </h1>
