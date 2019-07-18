@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://camo.githubusercontent.com/0b6fa6fded52f8eaf752f4ec0edb413f61ae9e46/687474703a2f2f7777772e667265656c6f676f766563746f72732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031332f30362f737461636b6f766572666c6f775f6c6f676f2e6a7067">
+  <img width="500" height="300" src="https://i.imgur.com/QRPyvqM.gif">
 </p>
 
 <h1>1. Business Problem </h1>
